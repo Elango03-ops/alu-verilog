@@ -1,0 +1,13 @@
+# Simulation outputs
+*.vcd
+alu_sim
+
+# Tool-generated files
+*.log
+*.jou
+*.str
+*.wdb
+
+# OS junk
+.DS_Store
+Thumbs.db
